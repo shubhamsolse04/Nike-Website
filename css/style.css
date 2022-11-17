@@ -1,0 +1,155 @@
+.navbar-light .navbar-nav .navbar-link{
+    color: black;
+    font-size: 22px;
+}
+
+.header{
+    height: 100vh;
+}
+
+.container-fluid{
+    height: 50px;
+}
+
+.navbar-logo{
+    width: 40px;
+    height: 40px;
+}
+
+.navbar-nav .nav-link{
+    font-size: 20px;
+    color:antiquewhite;
+    
+}
+
+.heading{
+    font-size: 50px;
+    font-family:fantasy;
+}
+
+.all{
+    /* background-color: #e5e5e5; */
+    background: linear-gradient(to bottom, #dcdbdb, #f1f1f1);
+}
+
+.card{
+    margin: 25px;
+    height: 325px;
+    
+}
+
+.card-body{
+    background-color: #ebebeb;
+    
+}
+
+.passion{
+    color: #0079bf;
+}
+
+.card-title{
+    font-family: fantasy;
+}
+
+.col-md-8 .card-body{
+    margin-top: 10px;
+    
+}
+
+.w-50{
+    margin-left: 10px;
+    
+}
+
+.mt-0{
+    font-family: fantasy;
+}
+
+.row{
+    background-color: #d9d9d9;
+}
+
+.future{
+    color: #ff5900;
+}
+
+.tribute{
+    color: rgb(213, 0, 0);
+}
+
+.md-3{
+    padding-left: 150px;
+    padding-right: 450px;
+}
+
+.mb-3{
+    padding-left: 150px;
+    padding-right: 450px;
+}
+
+.col-md-4{
+    padding-left: 150px;
+    
+}
+
+.col-12{
+    padding-left: 150px;
+}
+
+.contactcontainer{
+    background-color: #c6c6c6;
+    
+}
+
+
+
+.form-label{
+   font-family: fantasy;
+   font-size: 20px;
+}
+
+.form-control{
+    width: 370px;
+    
+}
+
+.contactimg{
+    width: 350px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+
+.offcanvas-body{
+    size: 300px;
+    
+}
+
+.offcanvas{
+    --bs-offcanvas-height: 80vh;
+}
+
+.contactheading{
+    font-family: fantasy;
+}
+
+
+.footer{
+    height: 30vh;
+    background-color: #c6c6c6;
+}
+
+.card-header1{
+    font-family: fantasy;
+    font-size: 40px;
+    
+}
+
+.card-body1{
+    padding-top: 20px;
+    
+}
+.ri-copyright-fill{
+    font-size: 15px;
+    color: rgb(53, 53, 53);
+    font-family: fantasy;
+}
